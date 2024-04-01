@@ -8,6 +8,7 @@ public class IatAlumniSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IatAlumniSystemApplication.class, args);
+		System.out.print("Gimme a  break");
 	}
 
 }
