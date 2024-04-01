@@ -10,6 +10,7 @@ public class IatAlumniSystemApplication {
 		SpringApplication.run(IatAlumniSystemApplication.class, args);
 		System.out.print("This is testing");
 		System.out.print("This is second testing");
+		System.out.print("This is third testing");
 	}
 
 }
